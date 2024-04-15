@@ -34,7 +34,8 @@ Hey there! 👋 I'm Mohammed Aftab, a passionate computer science student curren
 
 
 
-</td></tr></table>  
+</td></tr></table> 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=afthaabb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afthaabb&theme=dark&hide_border=false)<br/>
