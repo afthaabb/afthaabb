@@ -3,7 +3,7 @@ Hey there! 👋 I'm Mohammed Aftab, a passionate computer science student curren
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mohammed Aftab] (https://www.linkedin.com/in/mohammed-aftab-a1572b228/)) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/4fthab) 
+img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> (https://www.linkedin.com/in/mohammed-aftab-a1572b228/)) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/4fthab) 
 
 # 💻 Tech Stack:
 ### Frontend  
