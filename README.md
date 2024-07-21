@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Mohammed Aftab, a passionate computer science student currently in my third year at AISAT. <br>I love coding and exploring various technologies, with a keen interest in cybersecurity.<br>Here's a bit about what I'm up to:<br><br>- 🎓 Currently pursuing my Bachelor's degree in Computer Science Engineering at AISAT.<br>- 💻 I have basic knowledge in C, C++, Java, and JavaScript.<br>- 🌐 Learning web development with a focus on React JS.<br>- 🎨 Enjoy styling with Tailwind CSS.<br>-  🛡️ Interested in cybersecurity and exploring techniques to secure systems and networks.<br>- 🚀 Constantly exploring new technologies and frameworks.<br>
+Hey there! 👋 I'm Mohammed Aftab, a  computer science student currently  at AISAT. <br>I love coding and exploring various technologies, with a keen interest in cybersecurity and WEB3.<br>Here's a bit about what I'm up to:<br><br>- 🎓 Currently pursuing my Bachelor's degree in Computer Science Engineering at AISAT.<br>- 💻 I have basic knowledge in C, C++, Java, and JavaScript.<br>- 🌐 Learning web development with a focus on React JS.<br>- 🎨 Enjoy styling with Tailwind CSS.<br>-  🛡️ Interested in cybersecurity and exploring techniques to secure systems and networks.<br>- 🚀 Constantly exploring new technologies and frameworks.<br>
 
 
 ## 🌐 Socials:
