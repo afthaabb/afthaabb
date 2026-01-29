@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hey there! 👋 I'm Mohammed Aftab, a  computer science student currently  at AISAT. <br>I love coding and exploring various technologies, with a keen interest in cybersecurity and WEB3.<br>Here's a bit about what I'm up to:<br><br>- 🎓 Currently pursuing my Bachelor's degree in Computer Science Engineering at AISAT.<br>- 💻 I know C, C++, Java, and JavaScript.<br>- 🌐 Currently working on a project using NEXTJS.-  🛡️ Interested in cybersecurity and exploring techniques to secure systems and networks.<br>- 🚀 Constantly exploring new technologies and frameworks.<br>
+Hey there! 👋 I'm **Mohammed Aftab**, a Software Development Engineer at **CTeBS**.  
+I enjoy building clean, scalable web applications and REST APIs, and I like working across the stack to solve real-world problems.  
+I’m also interested in exploring modern backend systems and practical Web3 use cases.
 
+Here’s a bit about what I’m up to:
+
+- 💼 Working as an SDE using **Angular, Java, Spring Boot, and PostgreSQL**
+- ⚛️ Experienced with **React** and **Next.js** for modern frontend development
+- 💻 Building web applications, websites, and REST APIs with a focus on maintainability and scalability
+- 🗄️ Working with **PostgreSQL**, **Firebase**, **PocketBase**, and **Supabase**
+- 🔗 Exploring **Web3** and **Solidity** for practical, real-world applications
+- 🚀 Constantly learning and experimenting with modern web and backend technologies
+<br>
 
 ## 🌐 Socials:
 <div align="left">
